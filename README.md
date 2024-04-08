@@ -1,5 +1,5 @@
 # for_Bolt
-This repo contains materials for applying to the Industrial Master's Programme in Bolt
+This repo contains materials for applying to the Industrial Master's Programme at Bolt
 
 ## answer for question 1
 What drew you to the specific topic you are applying for?
